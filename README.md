@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey there! I'm Dhruv Patel, a passionate and curious developer who loves building real-world solutions through code. I’m currently pursuing my degree in Information Technology and exploring areas like Full-Stack Development, Android Apps, and Database Systems.<br>🌱 Current Focus:<br>Building meaningful projects in Java, Android, and Spring Boot, while experimenting with frontend tools like React.js.<br>🔧 Tech Stack I Love:<br>Java, Android Studio, Spring Boot, React.js, MySQL, Firebase, SQLite, Git/GitHub<br><br><br>💡 I believe in learning by doing, and I’m always up for collaborating on exciting open-source or personal projects!<br><br>
+<br>Hey there! I'm Dhruvi Patel, a passionate and curious developer who loves building real-world solutions through code. I’m currently pursuing my degree in Information Technology and exploring areas like Full-Stack Development, Android Apps, and Database Systems.<br>🌱 Current Focus:<br>Building meaningful projects in Java, Android, and Spring Boot, while experimenting with frontend tools like React.js.<br>🔧 Tech Stack I Love:<br>Java, Android Studio, Spring Boot, React.js, MySQL, Firebase, SQLite, Git/GitHub<br><br><br>💡 I believe in learning by doing, and I’m always up for collaborating on exciting open-source or personal projects!<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvi-patel-5a6555251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruviptl265@gmail.com) 
@@ -15,6 +15,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dhruviptl26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruviptl26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dhruviptl26&limit=4&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
